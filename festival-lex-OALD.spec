@@ -6,6 +6,7 @@ Release:	2
 License:	non-commercial use
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festlex_OALD.tar.gz
+# Source0-md5:	45a03689025849d02ec963a5b338ef37
 Requires:	festival-lex-POS
 Provides:	festival-lex-english
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
