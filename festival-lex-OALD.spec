@@ -23,7 +23,7 @@ i zasady konwersji liter na d¼wiêki opracowane na podstawie Oxford
 Advanced Learners' Dictionary of Current English.
 
 %prep
-%setup -q -c %{name}-%{version}
+%setup -q -c
 
 %build
 
