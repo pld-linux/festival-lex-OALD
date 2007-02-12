@@ -1,5 +1,5 @@
 Summary:	British English Lexicon
-Summary(pl):	Leksyka brytyjskiej odmiany jêzyka angielskiego
+Summary(pl.UTF-8):   Leksyka brytyjskiej odmiany jÄ™zyka angielskiego
 Name:		festival-lex-OALD
 Version:	0.4
 Release:	3
@@ -17,9 +17,9 @@ This package contains an British English Lexicon and letter to sound
 rules derived from the Oxford Advanced Learners' Dictionary of Current
 English.
 
-%description -l pl
-Ten pakiet zawiera leksykê brytyjskiej odmiany jêzyka angielskiego
-i zasady konwersji liter na d¼wiêki opracowane na podstawie Oxford
+%description -l pl.UTF-8
+Ten pakiet zawiera leksykÄ™ brytyjskiej odmiany jÄ™zyka angielskiego
+i zasady konwersji liter na dÅºwiÄ™ki opracowane na podstawie Oxford
 Advanced Learners' Dictionary of Current English.
 
 %prep
