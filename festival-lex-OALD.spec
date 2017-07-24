@@ -2,7 +2,7 @@ Summary:	British English Lexicon
 Summary(pl.UTF-8):	Leksyka brytyjskiej odmiany języka angielskiego
 Name:		festival-lex-OALD
 Version:	0.4
-Release:	3
+Release:	4
 License:	non-commercial use
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/downloads/festival/1.95/festlex_OALD.tar.gz
